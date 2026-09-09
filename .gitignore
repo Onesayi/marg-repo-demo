@@ -1,0 +1,8 @@
+# Never commit an API key. GEMINI_API_KEY belongs in Apps Script
+# Project Settings > Script Properties, not in this repository.
+.env
+*.key
+.clasp.json
+.DS_Store
+Thumbs.db
+node_modules/
