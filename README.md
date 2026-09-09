@@ -4,9 +4,9 @@ A small, working repository built the way a low-budget team can actually maintai
 
 Built as a demonstration piece for the UNEP/IFC MARG Green Buildings Project Repository assignment.
 
-**Live demo:** _add your deployment URL here_
+**Live demo:** https://script.google.com/macros/s/AKfycbybjeJ6v9woKjjzTtzMykdrtDQ39Eh_mbX-_NM5FQKlk0_r3X8OL7CKH7gL487ejo0/exec
 
-**JSON feed:** _same URL with `?format=json`_
+**JSON feed:** [same URL with `?format=json`](https://script.google.com/macros/s/AKfycbybjeJ6v9woKjjzTtzMykdrtDQ39Eh_mbX-_NM5FQKlk0_r3X8OL7CKH7gL487ejo0/exec?format=json)
 
 ![screenshot](screenshot.png)
 
